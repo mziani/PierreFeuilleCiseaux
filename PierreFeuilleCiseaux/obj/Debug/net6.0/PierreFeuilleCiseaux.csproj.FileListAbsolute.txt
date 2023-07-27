@@ -1,0 +1,17 @@
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\PierreFeuilleCiseaux.csproj.AssemblyReference.cache
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\PierreFeuilleCiseaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\PierreFeuilleCiseaux.AssemblyInfoInputs.cache
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\PierreFeuilleCiseaux.AssemblyInfo.cs
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\PierreFeuilleCiseaux.csproj.CoreCompileInputs.cache
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\bin\Debug\net6.0\PierreFeuilleCiseaux.exe
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\bin\Debug\net6.0\PierreFeuilleCiseaux.deps.json
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\bin\Debug\net6.0\PierreFeuilleCiseaux.runtimeconfig.json
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\bin\Debug\net6.0\PierreFeuilleCiseaux.dll
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\bin\Debug\net6.0\PierreFeuilleCiseaux.pdb
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\PierreFeuilleCiseaux.csproj.CopyComplete
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\PierreFeuilleCiseaux.dll
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\refint\PierreFeuilleCiseaux.dll
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\PierreFeuilleCiseaux.pdb
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\PierreFeuilleCiseaux.genruntimeconfig.cache
+C:\Users\ZIANI Mohammed\source\repos\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\net6.0\ref\PierreFeuilleCiseaux.dll
